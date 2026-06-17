@@ -1,4 +1,5 @@
-Bisect
+# Bisect
+
 Zachary Abrahamson
 
 The civilization they live in has almost all of it's core social infrastructure as an integrated enterprise system which runs smoothly and has a high 'social uptime' The protagonist is one of the evaluators for the system's functioning. Essentially, a general purpose human in the loop that mostly just hangs out because there isn't much to do. Every nation (repo) has an evaluator like this, but the protagonist is at hq so he sees the full system. 
